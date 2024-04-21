@@ -14,6 +14,8 @@ For this hackathon, I am proposing an educational platform called SustainNest. T
 
 ![landing](public/images/readme1.png)
 
+Overall, this could promote environmental well-being, help reduce waste, and conserve resources (i.e household energy).
+
 # The Problem
 
 The world’s energy consumption is on an upward trajectory, with global demand growing by approximately 1% to 2% each year. Households are significant contributors to this surge, with residential energy use accounting for a notable share of global energy consumption. The challenge we face is not just in the quantity of energy used but also in the efficiency of its use.
