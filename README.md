@@ -101,7 +101,7 @@ Overcoming challenges described above. Since I haven't worked with React much be
 * Improving data: Adding info about more household applications
 * Custom Image Classification Model: We can use Google's Teachable Machine to train our own model with various different household applications but that would require huge datasets.
 * User Login/Signup page
-* A backend / database where all the energy consumption and user data is stored
+* A backend / database where all the energy consumption and user data (for example last month's statistics) is stored
 
 
 
